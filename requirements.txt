@@ -1,0 +1,4 @@
+gspread
+openpyxl
+xmltodict
+pandas
